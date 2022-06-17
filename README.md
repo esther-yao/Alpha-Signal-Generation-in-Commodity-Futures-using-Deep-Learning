@@ -1,2 +1,4 @@
 # Alpha Signal Generation in Commodity Futures using Deep Learning
-Project report link: https://drive.google.com/file/d/1rtbVdT5SY1DUYH6yVGChSfvrikzKnS3d/view?usp=sharing
+Collaborative project for Applied Machine Learning
+- Project report link: https://drive.google.com/file/d/1rtbVdT5SY1DUYH6yVGChSfvrikzKnS3d/view?usp=sharing
+- Description: Our primary target contribution is to use deep learning algorithms to predict the next dayreturn of commodity futures given raw volume and price data. We built three different models and compared their erformance in predicting asset returns. Random forest is used as the baseline, and a CNN and LSTM model are built to further exploit the time series data. The CNN model using 3 days of price and volume data yields the best return prediction, while the LSTM model with 3 days of historical features produces the best cumulative correlation with the actual data. Our research can be useful in facilitating the price discovery process and algorithmic trading activities.
